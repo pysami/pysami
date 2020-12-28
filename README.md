@@ -15,7 +15,7 @@
 
 
 
-[![Youtube](https://img.shields.io/badge/YouTube-python%2023-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/pysami)
+[![Youtube](https://YouTube.com-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/pysami)
 
 
 
