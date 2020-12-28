@@ -2,7 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pysami&show_icons=true&theme=onedark)
 
-<p align="center"><a href="https://github.com/pysami"><img src="p1.png" height='195' alt="pysami">
+<p align="center"><a href="https://github.com/pysami"><img src="p2.png" height='195' alt="pysami">
 
 
  
